@@ -3,7 +3,9 @@
 
 # Example: Solenoid WiFi Control
 
-This example is built on the Espressif Wifi Control example
+This example is built on the Espressif Wifi Control example. 
+
+The board this is based on is something similar to this: https://devices.esphome.io/devices/ESP32E-Relay-X8
 
 ## GPIO functions:
 
